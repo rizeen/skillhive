@@ -1,5 +1,3 @@
-/** @jsx createElement */
-import { createElement } from './renderer'
 import Nested from './components/Nested'
 
 export default function App() {
